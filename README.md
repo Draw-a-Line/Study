@@ -1,7 +1,7 @@
 # Study
 
 ## About
-> Server Javascript
-> Sql
-> Scrap
-> CS
+* Server Javascript
+* Sql
+* Scrap
+* CS
