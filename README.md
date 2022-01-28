@@ -1,6 +1,7 @@
 # Study
 
-##  - Server - Javascript
-##  - Sql
-##  - 개발 Article
-##  - CS 공부
+## About
+Server - Javascript
+Sql
+개발 Article
+CS 공부
