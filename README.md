@@ -1,5 +1,5 @@
 # Study
 ## About
-* Server Javascript
-* Sql
 * CS
+* SQL
+* etc ...
